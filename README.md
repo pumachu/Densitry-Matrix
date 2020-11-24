@@ -1,4 +1,4 @@
-# Densitry-Matrix
+# Densitry-Matrix-Generator
 Generate SCF Density Matrix from ORCA output for GDMA.  
 ## Prerequisite  
 Numpy  
